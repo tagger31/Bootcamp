@@ -1,0 +1,15 @@
+{
+    "Language":[
+        {
+            "current": "pl",
+            "available": ["pl","en"]
+        },
+        {
+            "current": "pl",
+            "available": ["pl","en"]
+        },{
+            "current": "shop",
+            "available": ["shop","booking"]
+        }
+    ]
+}
